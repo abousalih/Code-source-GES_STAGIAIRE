@@ -1,0 +1,93 @@
+
+
+/*+++++++++ debut all page +++++++++*/
+.clickable{
+    cursor: pointer;
+}
+
+.margetop60{
+    margin-top: 60px;
+}
+
+
+body {
+    background-color: rgb(240, 238, 238);
+    font-size: 16px;
+}
+h1{
+    font-size: 40px;
+    color: #2980b9;
+}
+
+/*+++++++++ fin all page +++++++++*/
+
+
+
+/* +++++++++ debut login page ++++++++*/
+
+.login {
+    width: 300px;
+    margin: 100px auto;
+}
+
+.login h4 {
+    color: #888;
+}
+
+.login input {
+    margin-bottom: 10px;
+}
+
+/* +++++++++ debut login page ++++++++*/
+
+
+
+/*  +++++++ debut edit pwd ++++++   */
+
+.editpwd-page h1,h2{
+    color: #2e6da4;
+}
+
+.editpwd-page h1{
+    font-size: 45px;
+}
+
+
+.editpwd-page h2{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.editpwd-page form{
+    width: 400px;
+    margin: auto;
+}
+
+.editpwd-page input{
+    margin-bottom: 20px;
+}
+
+.input-container {
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.show-old-pwd,.show-new-pwd {
+    position: absolute;
+    top: 0px;
+    right: -35px;
+}
+
+
+/*  +++++++ fin edit pwd ++++++   */
+
+
+
+/*+++++++++  Debut nouvel utilisateur ***********/
+
+.user-page form{
+    width: 400px;
+}
+
+
+/*+++++++++  fin nouvel utilisateur ***********/
